@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**[LINK TO OUTPUT FILE] (       )**
+**[LINK TO OUTPUT FILE] (   http://rpubs.com/haneefmrn/EDAGapminder    )**
 
 ---
 
